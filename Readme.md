@@ -1,3 +1,8 @@
+
+
+
+![1](https://github.com/Rishiv1000/Drum/assets/114014651/70b779ea-f9a5-45c3-9535-6ae510d7d734)
+
 step 1 = create a front end of drum kit with 7 keys.
 
 step 2 = in index.js , we select all keys using *queryselectorall with class *subname & listen event of click. With for loop.
